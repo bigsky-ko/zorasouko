@@ -1,0 +1,16 @@
+<style type="text/css">
+#viewer {
+    margin: 0 auto;
+    width: 900px;
+    height: 300px;
+    text-align: left;
+    overflow: hidden;
+    position: relative;
+}
+ 
+#viewer img {
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+</style>
